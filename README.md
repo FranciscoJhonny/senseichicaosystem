@@ -62,7 +62,7 @@ A aplicação desktop do torneio será utilizada no local do evento, sem necessi
 |---------------|----------------------------------|
 | Front-end     | React ou Angular (Ionic opcional)|
 | Back-end      | .NET Core ou Node.js (Express)   |
-| Banco de dados| SQL Server         |
+| Banco de dados| SQL Server                       |
 | Offline       | Electron + SQLite                |
 | Comunicação   | API REST + JWT Auth / WebSocket  |
 | Hospedagem    | VPS, Azure, ou AWS               |
